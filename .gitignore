@@ -1,0 +1,10 @@
+# Build output
+bin/
+obj/
+*.exe
+*.pdb
+
+# Per-user runtime files (only ever in the install folder, never in a clone)
+key.dat
+settings.ini
+status.txt
